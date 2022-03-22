@@ -1,0 +1,2 @@
+pycipher==0.5.2
+wordninja==2.0.0
